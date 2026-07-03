@@ -1,6 +1,6 @@
 # Personal Portfolio — Imbisaat Mahmood
 
-**Registration Number:** _FA23-BCS-017_
+**Registration Number:** FA23-BCS-017
 **Build Track:** Glass & Gradient
 **Signature Features Implemented:**
 - Live theme switcher (light/dark, saved with `localStorage`)
@@ -29,3 +29,15 @@ portfolio/
 ├── assets/Imbisaat_Mahmood_CV.pdf
 └── README.md
 ```
+
+## Screenshots
+- `screenshot-desktop.png`
+- `screenshot-mobile.png`
+
+## Status
+- [x] Registration number added
+- [x] LinkedIn linked
+- [x] Deployed to Vercel
+- [x] Live link added
+- [x] Screenshots added
+- [x] Lighthouse audit run — Desktop 96-99, Mobile 78-83 (Performance, Accessibility, Best Practices, SEO all strong)
