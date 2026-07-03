@@ -1,6 +1,7 @@
 # Personal Portfolio — Imbisaat Mahmood
 
 **Registration Number:** FA23-BCS-017
+**CloudExify Intern ID:** CX-INT-2026-GEN-0453
 **Build Track:** Glass & Gradient
 **Signature Features Implemented:**
 - Live theme switcher (light/dark, saved with `localStorage`)
@@ -22,7 +23,7 @@ HTML5, CSS3 (custom properties, Grid, Flexbox), Vanilla JavaScript — no framew
 
 ## Structure
 ```
-portfolio/
+CloudExify-Project-1/
 ├── index.html
 ├── css/style.css
 ├── js/script.js
