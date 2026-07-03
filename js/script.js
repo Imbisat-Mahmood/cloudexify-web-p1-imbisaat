@@ -143,7 +143,8 @@ const skillObserver = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
       const fill = entry.target.querySelector('.fill');
-      fill.style.width = entry.target.dataset.percent + '%';
+      const percent = entry.target.dataset.percent / 100;
+      fill.style.transform = `scaleX(${percent})`;
       skillObserver.unobserve(entry.target);
     }
   });
